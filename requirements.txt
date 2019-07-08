@@ -1,0 +1,12 @@
+# Note: this doesn't include tensorflow or tensorflow-gpu because the package you need to install
+# depends on your platform. It is assumed you have already installed tensorflow.
+
+falcon
+inflect
+librosa
+matplotlib
+
+numpy
+scipy
+tqdm
+Unidecode
